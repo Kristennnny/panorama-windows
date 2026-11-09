@@ -1,0 +1,57 @@
+{
+  "workingButtons": [
+    "Stop response",
+    "Stop generating",
+    "Stop generating response",
+    "Stop Claude",
+    "停止生成",
+    "停止回复"
+  ],
+  "composerNames": [
+    "Reply to Claude",
+    "Message Claude",
+    "Write a message",
+    "Send a message",
+    "回复 Claude",
+    "向 Claude 发送消息"
+  ],
+  "assistantNames": [
+    "Claude's response",
+    "Claude response",
+    "Assistant response",
+    "Response from Claude",
+    "Claude 回复"
+  ],
+  "assistantIds": [
+    "assistant-message",
+    "assistant_response",
+    "claude-message"
+  ],
+  "userNames": [
+    "Your message",
+    "User message",
+    "你的消息"
+  ],
+  "userIds": [
+    "user-message",
+    "user_message"
+  ],
+  "inputLabels": [
+    "Waiting for your input",
+    "Your input is required",
+    "Waiting for your response",
+    "等待你的输入",
+    "等待您的输入"
+  ],
+  "approvalButtons": [
+    "Allow once",
+    "Allow this time",
+    "Approve",
+    "允许一次"
+  ],
+  "rejectButtons": [
+    "Deny",
+    "Reject",
+    "拒绝"
+  ]
+}
